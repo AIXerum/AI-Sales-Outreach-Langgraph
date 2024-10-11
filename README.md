@@ -54,7 +54,7 @@ This is the detailed flow of the system:
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/kaymen99/sales-outreach-automation-langgraph.git
+   git clone https://github.com/AIXerum/sales-outreach-automation-langgraph.git
    cd sales-outreach-automation-langgraph
    ```
 
@@ -102,4 +102,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ### Contact
 
-For questions or suggestions, contact me at `aymenMir1001@gmail.com`.
+For questions or suggestions, contact me at `richard.z95727@gmail.com`.
