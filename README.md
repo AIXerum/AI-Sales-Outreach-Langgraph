@@ -54,8 +54,8 @@ This is the detailed flow of the system:
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/AIXerum/sales-outreach-automation-langgraph.git
-   cd sales-outreach-automation-langgraph
+   git clone https://github.com/AIXerum/AI-Sales-Outreach-Langgraph.git
+   cd AI-Sales-Outreach-Langgraph
    ```
 
 2. **Create and activate a virtual environment:**
@@ -95,11 +95,3 @@ This is the detailed flow of the system:
 ### Customization
 
 To customize the scoring rules or outreach templates, edit the relevant configuration file in `src/prompts`.
-
-### Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any changes.
-
-### Contact
-
-For questions or suggestions, contact me at `richard.z95727@gmail.com`.
